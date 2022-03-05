@@ -1,11 +1,11 @@
-# awesome-android
+# Awesome Android
 
+My version for [Awesome Android](https://github.com/LinuxCafeFederation/awesome-android), But it contains both FOSS &amp; Closed Source App Suggestion.
 
-<!-- how the fuck do i add this ? -->
-## My version for [Awesome Android](https://github.com/LinuxCafeFederation/awesome-android)
-> Contains FOSS &amp; Closed Source App Suggestion
+> Check out my other repo for [**Windows**](https://github.com/ThunderE75/awesome-windows) 
 
 # Table of Contents
+- [Legend](https://github.com/ThunderE75/awesome-android#legend)
 - [Basic](https://github.com/ThunderE75/awesome-android#basic)
 - [Security & Privacy](https://github.com/ThunderE75/awesome-android#security--privacy)
 - [Communication](https://github.com/ThunderE75/awesome-android#communication)
@@ -16,15 +16,6 @@
 - [Alternatives](https://github.com/ThunderE75/awesome-android#alternatives)
 - [Niche Usecases](https://github.com/ThunderE75/awesome-android#niche-usecases)
 - [Miscllenous](https://github.com/ThunderE75/awesome-android#miscllenous)
-
-## Legend 
-
-- ✨ It's Magical, use it.
-- 🔸 An Open Source Alternative Needed. *(if you find one, open a PR)*
-- 💢 Applications with terrible User Interface (This is my opinion)
-- ❌ I no longer use that application for either because of performance issues (clunky) or 
-- (alt. [Stuff]()) Are the alternative i sometimes use
-- ~~Strikethrough~~ are unmaintained/outdated.
 
 ## Basic
 
@@ -98,3 +89,12 @@
 - 🔸 Bussiness Card Scanner - 💢 [Card Reader](https://github.com/gpadmaku1/card-reader)
 - Crypto Wallet - [Cake Wallet](https://cakewallet.com/)
 - ADB Shell - [LADB](https://play.google.com/store/apps/details?id=com.draco.ladb)
+
+## Legend 
+
+- ✨ It's Magical, use it.
+- 🔸 An Open Source Alternative Needed. *(if you find one, open a PR)*
+- 💢 Applications with terrible User Interface (This is my opinion)
+- ❌ I no longer use that application for either because of performance issues (clunky) or 
+- (alt. [Stuff]()) Are the alternative i sometimes use
+- ~~Strikethrough~~ are unmaintained/outdated.
