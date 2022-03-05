@@ -1,10 +1,21 @@
 # awesome-android
 
-<!-- ## Table of Contents -->
 
 <!-- how the fuck do i add this ? -->
 ## My version for [Awesome Android](https://github.com/LinuxCafeFederation/awesome-android)
 > Contains FOSS &amp; Closed Source App Suggestion
+
+# Table of Contents
+- [Basic](https://github.com/ThunderE75/awesome-android#basic)
+- [Security & Privacy](https://github.com/ThunderE75/awesome-android#security--privacy)
+- [Communication](https://github.com/ThunderE75/awesome-android#communication)
+- [Media Consumption](https://github.com/ThunderE75/awesome-android#media-consumption)
+- [Social Media Client](https://github.com/ThunderE75/awesome-android#social-media-client)
+- [Customization](https://github.com/ThunderE75/awesome-android#customization)
+- [Piracy](https://github.com/ThunderE75/awesome-android#piracy)
+- [Alternatives](https://github.com/ThunderE75/awesome-android#alternatives)
+- [Niche Usecases](https://github.com/ThunderE75/awesome-android#niche-usecases)
+- [Miscllenous](https://github.com/ThunderE75/awesome-android#miscllenous)
 
 ## Legend 
 
@@ -80,10 +91,10 @@
 - Last Time - [Time Jot](https://play.google.com/store/apps/details?id=com.fenchtose.reflog&hl=en_IN&gl=US)
 - Notification Manager - [Buzzkill](https://play.google.com/store/apps/details?id=com.samruston.buzzkill&hl=en_IN&gl=US)
 - Time Table Management - [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper) (alt. [Tabby Native](https://github.com/KDani-99/tabby-native))
-- 🔸 Bussiness Card Scanner - 💢 [Card Reader](https://github.com/gpadmaku1/card-reader)
 
 ## Miscllenous
 
-- Crypto Wallet - [Cake Wallet](https://cakewallet.com/)
 - Weather App - [Flux Weather](https://play.google.com/store/apps/details?id=de.bendix.flux&hl=en_IN&gl=US) & [Carrot](https://play.google.com/store/apps/details?id=com.grailr.carrotweather&hl=en_IN&gl=US) (alt. [Shadow Weather](https://play.google.com/store/apps/details?id=com.noaimgames.shadowweather&hl=en_IN&gl=US)) 
+- 🔸 Bussiness Card Scanner - 💢 [Card Reader](https://github.com/gpadmaku1/card-reader)
+- Crypto Wallet - [Cake Wallet](https://cakewallet.com/)
 - ADB Shell - [LADB](https://play.google.com/store/apps/details?id=com.draco.ladb)
