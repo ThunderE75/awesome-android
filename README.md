@@ -22,7 +22,7 @@ My version for [Awesome Android](https://github.com/LinuxCafeFederation/awesome-
 - [Brave](https://brave.com/) prefered mobile browser 
 - ✨ Notes - [Bundeled Notes](https://bundlednotes.com/) & [Keep](https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en_IN&gl=US)
 - Task Management - [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog&hl=en_IN&gl=US)
-- 🔸 Money Management App - [Bluecoin](https://www.bluecoinsapp.com/) (alt. 💢 [My Expenses](https://github.com/mtotschnig/MyExpenses))
+- 🔸 Money Management App - [Bluecoin](https://www.bluecoinsapp.com/) (alt. [Ivy Wallet](https://github.com/ILIYANGERMANOV/ivy-wallet) & 💢 [My Expenses](https://github.com/mtotschnig/MyExpenses))
 
 
 
@@ -46,6 +46,7 @@ My version for [Awesome Android](https://github.com/LinuxCafeFederation/awesome-
 - Podcast Client - [Pocket Casts](https://www.pocketcasts.com/) (alt. 💢 [AntennaPod](https://antennapod.org/))
 - Music - [Spotify](https://www.spotify.com/) (alt. [BlackHole](https://github.com/Sangwan5688/BlackHole))
 - Spotify Podcast - [Podify](https://play.google.com/store/apps/details?id=com.sebschaef.podify&hl=en_IN&gl=US)
+- Music Player - [Retro](https://github.com/RetroMusicPlayer/RetroMusicPlayer) (alt. [~~Pulse~~](https://github.com/HardcodeCoder/PulseMusic))
 - Anime - [Web](https://github.com/anshumanv/awesome-anime-sources) (alt. ❌ [AnimeXStream](https://github.com/mukul500/AnimeXStream))
 - Mainstream - [Bee TV](https://beetvapk.app/) & [Stremio](https://www.stremio.com/)
 
