@@ -3,6 +3,7 @@
 My version for [Awesome Android](https://github.com/LinuxCafeFederation/awesome-android), But it contains both FOSS &amp; Closed Source App Suggestion.
 
 > Check out my other repo for [**Windows**](https://github.com/ThunderE75/awesome-windows) 
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
 
 # Table of Contents
 - [Legend](https://github.com/ThunderE75/awesome-android#legend)
